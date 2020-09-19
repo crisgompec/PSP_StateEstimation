@@ -1,2 +1,4 @@
-# PSP_StateEstimation
-This project solves the dynamic state estimation using the Newton-Gauss method applied to a relay circuit. 
+# Final Project: The Intelligent Merging Unit
+This is the final project of the Power Systems Protection class at Georgia Tech. The main goal is to detect systems faults using a dynamic state estimation. 
+
+For further information, please read the Description.pdf file included in the repository.
